@@ -1,6 +1,6 @@
-# Method Arguments Lab
-
-## Objectives
+NoMethodError
+undefined method 'introduction'
+# lib/introduction.rb
 
 1. Define a method that takes in an argument and uses that argument in the
    method body.
